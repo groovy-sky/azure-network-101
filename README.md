@@ -1,5 +1,6 @@
 # Introduction to Azure Networking
 
+![](/img/net_logo.png)
  
 ## 1. Common Public Cloud Service Types
 
