@@ -1,5 +1,10 @@
 # Introduction to Azure Networking
 
+<<<<<<< HEAD
+=======
+![](/img/net_logo.png)
+ 
+>>>>>>> refs/remotes/origin/main
 ## 1. Common Public Cloud Service Types
 
 * **PaaS** (Platform as a Service): Provides a platform for developing, testing, and managing applications without the need to manage infrastructure.
