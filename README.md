@@ -3,9 +3,9 @@
  
 ## 1. Common Public Cloud Service Types
 
-* **PaaS (Platform as a Service): Provides a platform for developing, testing, and managing applications without the need to manage infrastructure.
-* **SaaS (Software as a Service): Delivers software applications over the internet on a subscription basis, eliminating the need for installation or management.
-* **IaaS (Infrastructure as a Service): Offers virtualized computing resources, including virtual machines, storage, and networks, giving users control over the operating system and applications.
+* **PaaS** (Platform as a Service): Provides a platform for developing, testing, and managing applications without the need to manage infrastructure.
+* **SaaS** (Software as a Service): Delivers software applications over the internet on a subscription basis, eliminating the need for installation or management.
+* **IaaS** (Infrastructure as a Service): Offers virtualized computing resources, including virtual machines, storage, and networks, giving users control over the operating system and applications.
 
 ## 2. Network Access Types for Azure Resources
 
